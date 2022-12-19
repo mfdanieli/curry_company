@@ -3,13 +3,15 @@
 # -----------------------------------
 
 # ******************
-# Importando bibliotecas
 import pandas as pd
-# import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib.pyplot as plt
 import plotly.express as px
+import plotly.graph_objs as go
 import folium
 import streamlit as st
-import folium
+import folium    
+
 from haversine import haversine
 from PIL import Image
 from streamlit_folium import folium_static
