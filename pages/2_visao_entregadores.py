@@ -5,7 +5,7 @@
 # ******************
 # Importando bibliotecas
 import pandas as pd
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import plotly.express as px
 import folium
 import streamlit as st
