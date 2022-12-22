@@ -3,7 +3,7 @@ from PIL import Image
 
 st.set_page_config(
     page_title='Home',
-    page_icon="🎲",
+    page_icon="📈",
     layout = 'wide',
 )
 
@@ -18,21 +18,20 @@ st.sidebar.markdown('# Cury Company')
 st.sidebar.markdown('## Fastest Delivery in Town')
 st.sidebar.markdown("""---""")
 
-st.write('# Cury Company Dashboard')
+st.write('# Delivery APP Dashboard')
 
 st.markdown(
     """
-Growth Dashboard foi construído para acompanhar as métricas de crescimento dos Entregadores e Restaurantes.
-### Como utilizar esse Growth Dashboard?
-- Visão Empresa:
-- Visão Gerencial: Métricas gerais de comportamento.
-- Visão Tática: Indicadores senanais de crescimento.
-- Visão Geográfica: Insights de geolocalização.
-- Visão Entregador:
-- Acompanhamento dos indicadores semanais de crescimento
-- Visão Restaurante:
-- Indicadores senanais de crescimento dos restaurantes
-## Ask for Help
-Time de Data Science no Discord
-    -danieli
+The Growth Dashboard was designed to follow the growth metrics related to the **Restaurants**, to the **Delivery people**, and to the **Delivery app**. 
+### How to use the Growth Dashboard?
+- Company Vision: Indexes of interest of company growth.
+    * Management vision: Absolute numbers of orders by traffict and city.
+    * Strategic vision: Weekly orders for tatic purposes.  
+    * Geographical vision: Orders by location.
+- Restaurants Vision: Insights associated with each restaraunt.
+- Delivery Vision: Metrics to analyse the deliveries.
+
+#### Ask for Help
+    danieli@email.com
 """)
+
