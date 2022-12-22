@@ -69,8 +69,6 @@ Provide real time analysis of food delivery data and KPIs of company growth. The
 - Develop machine learning models to predict the expected daily or weekly orders.
 
 
+***Take a look at the responsive, interactive and multi-purpose app:***
 
-
-
-
-
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mfdanieli-curry-company-home-70myun.streamlit.app/)
