@@ -14,7 +14,7 @@ Provide real time analysis of food delivery data and KPIs of company growth. The
 
 *Why is this subjetc important?* 
 
-  1. Delivery platforms connect Restaurants, Delivery persons, and Clients. They make money through various revenue streams, according to [Ahuja et al.](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/ordering-in-the-rapid-evolution-of-food-delivery):
+  1. Delivery platforms connect Restaurants, Delivery persons, and Clients. They make money through various revenue streams, according to [Ahuja et al., 2021](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/ordering-in-the-rapid-evolution-of-food-delivery):
   - Restaurant commission fees
   - Customer delivery fees
   - In-app advertising
